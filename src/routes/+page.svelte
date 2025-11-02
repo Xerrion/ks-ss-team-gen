@@ -132,11 +132,11 @@ ${fmtNames(subs)}`;
 </script>
 
 <svelte:head>
-	<title>Swordland In-Game Generator</title>
+	<title>Swordland Showdown - Team Generator</title>
 </svelte:head>
 
 <h1 class="text-3xl font-semibold tracking-tight text-slate-900 dark:text-white">
-	Swordland In-Game Generator
+	Swordland Showdown - Team Generator
 </h1>
 
 <section class="mt-6 grid w-full max-w-4xl gap-6">
